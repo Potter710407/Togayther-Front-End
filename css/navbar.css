@@ -450,6 +450,7 @@ p {
   right: 24px;
   bottom: 40px;
   z-index: 200;
+  display: none;
 }
 
 .advertise-fixed {
@@ -477,6 +478,7 @@ p {
   .advertise-fixed-block {
     right: 24px;
     bottom: 40px;
+    display: none;
   }
   .advertise-fixed {
     width: 88px;
