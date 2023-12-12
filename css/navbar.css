@@ -188,6 +188,7 @@ p {
 }
 #navbar #navbar-go-to-social-btn {
   height: 30px;
+  display:none;
 }
 #navbar .profile-image {
   width: 25px;
